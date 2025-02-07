@@ -63,22 +63,6 @@
       "date": "15.02.2025",
       "time": "17:00",
       "photo": "https://picsum.photos/id/8/750/730"
-    },
-    {
-      "id": 9,
-      "title": "Мастер-класс от Kosmoteros",
-      "description": "Практический мастер-класс по использованию инновационных косметических средств.",
-      "date": "17.02.2025",
-      "time": "18:00",
-      "photo": "https://picsum.photos/id/9/750/730"
-    },
-    {
-      "id": 10,
-      "title": "aaaaaaa",
-      "description": "bbbbbb",
-      "date": "2025-01-31",
-      "time": "12:51",
-      "photo": "https://picsum.photos/id/10/750/730"
     }
   ]
 }
